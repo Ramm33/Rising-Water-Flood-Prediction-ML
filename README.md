@@ -21,10 +21,10 @@ It can support early preparation and potentially reduce loss of life and propert
 
 # Features
 
-✔ Predicts flood probability (%) for a given region
-✔ Simple user interface for prediction and warnings
-✔ Uses a trained ML model (e.g., classification/regression)
-✔ Can be extended with real-time data feeds (e.g., rainfall API)
+ Predicts flood probability (%) for a given region
+ Simple user interface for prediction and warnings
+ Uses a trained ML model (e.g., classification/regression)
+ Can be extended with real-time data feeds (e.g., rainfall API)
 
 #  Repository Structure
 flood-warning-prediction/
