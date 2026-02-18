@@ -9,15 +9,15 @@ A machine learning-based flood warning system that analyzes environmental data t
 
 # Overview
 
-Floods are among the most devastating natural disasters, especially in monsoon-prone regions. This project uses machine learning techniques to:
+Floods are among the most devastating natural disasters, especially in monsoon-prone regions This project uses machine learning techniques to:
 
-Predict the likelihood of flooding based on input features such as rainfall, water level, humidity, etc.
+Predict the likelihood of flooding based on input features such as rainfall, water level, humidity, etc
 
-Estimate flood percentage — how likely a flood event is to occur.
+Estimate flood percentage — how likely a flood event is to occur
 
-Warn local residents or authorities when flood risk crosses a defined threshold.
+Warn local residents or authorities when flood risk crosses a defined threshold
 
-It can support early preparation and potentially reduce loss of life and property.
+It can support early preparation and potentially reduce loss of life and property
 
 # Features
 
